@@ -1,3 +1,3 @@
-export default function Dashboard() {
-    return <p>Dashboard Page</p>;
+export default function Invoices() {
+    return <p>Invoices Page</p>;
 }
